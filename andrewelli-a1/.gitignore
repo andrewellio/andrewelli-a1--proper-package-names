@@ -1,0 +1,10 @@
+/target/
+/temp/
+/bin/
+/logs.json
+/report.log
+/.classpath
+/.project
+/.settings
+/logsList.json
+
